@@ -21,4 +21,8 @@ npm install @ionic/angular@latest --save
 ng add @ionic/angular
 Esto es en caso de tener problemas con los alert
 
+*Bootstrap
+ng add @ng-bootstrap/ng-bootstrap
+Esto es para el diseño de la api del clima
+
 
